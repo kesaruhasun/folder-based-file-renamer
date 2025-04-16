@@ -1,0 +1,8 @@
+{
+    "separator": "-",
+    "usePrefix": true,
+    "useSuffix": false,
+    "parentFolderPath": "",
+    "excludeFolders": ["backup", "temp", "logs"],
+    "excludeFiles": ["*.tmp", "*.bak", "Thumbs.db", ".DS_Store"]
+}
